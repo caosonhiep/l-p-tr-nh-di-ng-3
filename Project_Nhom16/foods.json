@@ -1,0 +1,50 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "foods": [
+    {
+      "id": 1,
+      "ten": "Chân gà om",
+      "mota1": "-Mề gà giòn sần sật với hoa thiên lý mềm cà ngon là món ăn rất bổ dưỡng. ",
+      "mota2": "-Nguyên Liệu: ",
+      "mota3": "+ Hoa thiên lý: 200gr ",
+      "mota4": "+ Hành khô: 1 củ nhỏ ",
+      "mota5": "+ Mề và tim gà: 300gr",
+      "tacgia": "Nguyễn Hoàng",
+      "gia": 100,
+      "hinh": "https://photo-2-baomoi.zadn.vn/w1000_r1/2018_05_15_181_26033803/6ef7d35e361fdf41860e.jpg"
+    },
+    {
+      "id": 2,
+      "ten": "Gỏi cuốn tôm thịt",
+      "mota": "sữa và cà phê",
+      "tacgia": "Đặng Lâm",
+      "gia": 100,
+      "hinh": "http://giadinh.mediacdn.vn/k:2016/photo-0-1472785146823/nhungmonanngonchogiadinhdip29.jpg"
+    },
+    {
+      "id": 3,
+      "ten": "Thịt bò xào",
+      "mota": "sữa và cà phê",
+      "tacgia": "Văn Tiên",
+      "gia": 220,
+      "hinh": "https://photo-2-baomoi.zadn.vn/w700_r1/2018_05_15_181_26033803/666ae6c30382eadcb393.jpg"
+    },
+    {
+      "id": 4,
+      "ten": "Cua rang me",
+      "mota": "sữa và cà phê",
+      "tacgia": "Ngọc Anh",
+      "gia": 100,
+      "hinh": "https://2sao.vietnamnetjsc.vn/images/2018/01/09/13/14/cua-rang-me.jpg"
+    },
+    {
+      "id": 5,
+      "ten": "Chân giò sốt ớt",
+      "mota": "sữa và cà phê",
+      "tacgia": "Diễm Lê",
+      "gia": 200,
+      "hinh": "https://photo-2-baomoi.zadn.vn/w700_r1/2018_05_15_181_26033803/6a4a30ecd5ad3cf365bc.jpg"
+    }
+  ]
+}
